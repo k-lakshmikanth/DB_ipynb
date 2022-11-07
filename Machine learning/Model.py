@@ -29,6 +29,10 @@ date = date.values
 
 # COMMAND ----------
 
+date
+
+# COMMAND ----------
+
 type(date)
 
 # COMMAND ----------
