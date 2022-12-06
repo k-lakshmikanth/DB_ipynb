@@ -1,9 +1,10 @@
 # Databricks notebook source
-pip install azureml-core
+!pip install azureml-core
 
 # COMMAND ----------
 
 import azureml.core
+
 print(azureml.core.VERSION)
 
 # COMMAND ----------
@@ -24,7 +25,7 @@ ws = Workspace()
 
 # COMMAND ----------
 
-pip install azure-storage
+!pip install azure-storage
 
 # COMMAND ----------
 
